@@ -1,0 +1,33 @@
+{
+  "name": "add-component",
+  "version": "1.0.0",
+  "description": "This component will add to entered numbers.",
+  "main": "",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlestes/add-component.git"
+  },
+  "author": "Jon Estes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jlestes/add-component/issues"
+  },
+  "homepage": "https://github.com/jlestes/add-component#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-sass": "^3.1.0",
+    "jasmine-core": "^2.5.2",
+    "jasmine-spec-reporter": "^3.2.0",
+    "jshint": "^2.9.4",
+    "karma": "^1.5.0",
+    "karma-jasmine": "^1.1.0",
+    "karma-mocha-reporter": "^2.2.2",
+    "karma-ng-html2js-preprocessor": "^1.0.0",
+    "karma-phantomjs-launcher": "^1.0.2",
+    "phantomjs-prebuilt": "^2.1.14"
+  }
+}

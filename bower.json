@@ -1,0 +1,28 @@
+{
+  "name": "add-component",
+  "authors": [
+    "Jon Estes"
+  ],
+  "description": "This component will add to entered numbers.",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/jlestes/add-component",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src",
+    "test",
+    "tests",
+    ".gitignore",
+    "package.json",
+    "karma.conf.js"
+  ],
+  "devDependencies": {
+    "angular": "^1.6.2",
+    "angular-mocks": "^1.6.2",
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7"
+  }
+}
