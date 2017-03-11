@@ -2,7 +2,7 @@
 
 var app = angular.module('app.calculator.add');
 
-function AddController($scope, $element, $attrs) {
+function AddController() {
     var self = this;
     self.result;
 
